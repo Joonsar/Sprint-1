@@ -8,4 +8,6 @@ Opiskelija kommunikoi asiakkaan kanssa
 
 PowerPointti esitys kyseisestä aiheesta
 
-* 
+*  Selvittää kehitystiimin kanssa asiakkaan tarpeet
+*  Viestii tekniset asiat asiakaslähtöisesti
+*  Osallistuu version katselmointiin​
